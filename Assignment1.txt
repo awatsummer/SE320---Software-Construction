@@ -1,0 +1,9 @@
+**Submission:  Share your assignment/code on GitHub with me (akbasm@erau.edu) and copy/paste the link on submission page on Canvas**
+
+1. (3points) Write a Java program that prompts the user to enter two integers and displays their sum. 
+Use exception handling to prompt the user for reading the number again if the input is incorrect.
+
+2. (3points) Write a Java program that meets the following requirements:
+- Creates an array with 100 randomly chosen integers.
+- Prompts the user to enter the index of the array, then displays the corresponding element value. 
+  If the specified index is out of bounds, catch the exception and display the message "Out of Bounds".
